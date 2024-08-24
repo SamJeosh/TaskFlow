@@ -1,0 +1,57 @@
+Requirements Document
+1. Overview
+TaskFlow is a web-based project management tool designed to help teams collaborate effectively, manage tasks, and track project progress. The application will provide a user-friendly interface and essential features to facilitate project management.
+2. Functional Requirements
+User Authentication
+Users can register and log in to their accounts.
+Password recovery functionality via email.
+Dashboard
+Users can view an overview of all active projects and tasks.
+Quick access to create new projects and tasks.
+Project Management
+Users can create, edit, and delete projects.
+Each project can have a title, description, start date, end date, and status (active, completed, archived).
+Users can assign team members to projects.
+Task Management
+Users can create, edit, and delete tasks within projects.
+Each task can have a title, description, due date, priority level (low, medium, high), and status (to-do, in progress, completed).
+Users can assign tasks to team members.
+Collaboration Features
+Users can comment on tasks and projects for better communication.
+Users receive notifications for task assignments, comments, and project updates.
+File Upload
+Users can upload and attach files to tasks and projects.
+Reporting and Analytics
+Users can generate reports on project progress, task completion rates, and team performance.
+User Roles and Permissions
+Admin role: Can manage users, projects, and tasks.
+Team member role: Can create and manage tasks within assigned projects.
+User Story Document
+1. User Stories
+User Authentication
+As a user, I want to register for an account so that I can access the application.
+As a user, I want to log in to my account so that I can manage my projects and tasks.
+As a user, I want to recover my password if I forget it so that I can regain access to my account.
+Dashboard
+As a user, I want to see an overview of my active projects and tasks so that I can prioritize my work.
+As a user, I want to quickly create new projects and tasks from the dashboard so that I can start working immediately.
+Project Management
+As a user, I want to create a new project with a title and description so that I can organize my work.
+As a user, I want to edit my projects so that I can update information as needed.
+As a user, I want to delete projects that are no longer relevant so that my workspace remains organized.
+As a user, I want to assign team members to projects so that we can collaborate effectively.
+Task Management
+As a user, I want to create tasks within a project so that I can break down my work into manageable pieces.
+As a user, I want to edit tasks to update their details or status as work progresses.
+As a user, I want to delete tasks that are no longer needed so that I can keep my task list clean.
+As a user, I want to assign tasks to team members so that everyone knows their responsibilities.
+Collaboration Features
+As a user, I want to comment on tasks and projects so that I can communicate with my team.
+As a user, I want to receive notifications for task assignments and comments so that I stay informed about project updates.
+File Upload
+As a user, I want to attach files to tasks and projects so that all relevant documents are easily accessible.
+Reporting and Analytics
+As a user, I want to generate reports on project progress and task completion so that I can evaluate team performance.
+User Roles and Permissions
+As an admin, I want to manage user accounts so that I can control access to the application.
+As a team member, I want to manage my own tasks within assigned projects without affecting others.
